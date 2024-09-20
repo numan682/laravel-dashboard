@@ -40,7 +40,7 @@ This is a Laravel Dashboard project designed to manage and display data efficien
 
 ## Preview
 
-![Dashboard Preview](github.com/numan682/laravel-dashboard/ss.png)
+![Dashboard Preview](https://github.com/numan682/laravel-dashboard/blob/main/ss.png)
 
 ## Contributing
 Feel free to fork this repository and submit pull requests. Contributions are always welcome!
